@@ -1,9 +1,9 @@
 ## Hi there 👋, I'm Rohit ✨
 
 Engineering Student at Pune University⚡ <br>
-Machine Learning Intern At Anubhooti Solutions ✨
-Developed and contributed in so many projects 🌱
-Here is my Linkedin Profile you can connect to  me there (https://www.linkedin.com/in/rohit--pawar/)
+Machine Learning Intern At Anubhooti Solutions ✨<br>
+Developed and contributed in so many projects 🌱<br>
+Here is my Linkedin Profile you can connect to  me there (https://www.linkedin.com/in/rohit--pawar/)<br>
 
 <!--
 **Rohit7696/Rohit7696** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
